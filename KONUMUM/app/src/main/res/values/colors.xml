@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01f0ad</color>
+    <color name="colorPrimaryDark">#466e7a</color>
+    <color name="colorAccent">#385a64</color>
+    <color name="arkaplan">#385a64</color>
+    <color name="arkaplan2">#466e7a</color>
+    <color name="arkaplan3">#01f0ad</color>
+    <color name="line">#fff</color>
+</resources>
+

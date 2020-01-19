@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "245750614393",
+    "firebase_url": "https://konumum-7c0e6.firebaseio.com",
+    "project_id": "konumum-7c0e6",
+    "storage_bucket": "konumum-7c0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245750614393:android:e9c53c05e640b8dd",
+        "android_client_info": {
+          "package_name": "com.example.mehmet.konumum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245750614393-dua30i795cgq9kafijt5ejtuc32bbpco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiA5RcE-P3TcZwekxsWqWNQ6je-ndramM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
