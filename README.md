@@ -8,7 +8,7 @@
 - Google map api ile konum kullanıcıdan alınarak harita vasıtasıyla gösterilmesi sağlanmıştır.
 
 
-<img src="https://user-images.githubusercontent.com/34112198/73143122-551e8100-40a7-11ea-8439-a180e14bd974.jpeg" width="300" height="780"> 
+<img src="https://user-images.githubusercontent.com/34112198/73143122-551e8100-40a7-11ea-8439-a180e14bd974.jpeg" width="300" height="480"> 
 
 
 
